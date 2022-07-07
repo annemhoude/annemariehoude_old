@@ -15,7 +15,6 @@ experience:
     title: 'CEO'
     company: 'GenCoin'
     location: 'California'
-    date_start: '2017-01-01'
     description: >-
         Responsibilities include:
         
