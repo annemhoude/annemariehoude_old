@@ -6,9 +6,9 @@ bio: My research interests include European studies, emotion research in
   perspectives and the everyday.
 interests:
   - European studies
-  - emotion research in International Relations
-  - political and social psychology
-  - and citizens’ perspectives and the everyday.
+  - Emotion research in International Relations
+  - Political and Social psychology
+  - Citizens’ perspectives and the Everyday.
 social:
   - icon: envelope
     icon_pack: fas
