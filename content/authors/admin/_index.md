@@ -15,35 +15,24 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/AnneMarieHoude
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://scholar.google.co.uk/citations?user=nwKy9XUAAAAJ&hl=en&authuser=1
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Warwick
+    url: https://warwick.ac.uk/fac/soc/pais/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MS Political Science
+      institution: University of Montreal
+      year: 2018
+    - course: BA in Economics and Politics
+      institution: Laval University
+      year: 2017
 superuser: true
 highlight_name: true
 title: Anne-Marie Houde
-email: ""
+email: anne-marie.houde@warwick.ac.uk
 ---
 I am a PhD candidate at the Department of Politics and International Studies and a recipient of the [Chancellor’s International Scholarship](https://warwick.ac.uk/services/dc/schols_fund/scholarships_and_funding/chancellors_int/) (2019-2023). Before beginning my PhD at Warwick I completed an MSc in Political Science at the University of Montreal.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
