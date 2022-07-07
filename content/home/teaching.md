@@ -11,10 +11,17 @@ design:
     text_color_light: false
     image_darken: 0
 
-experience:
-  - title: 'Senior Graduate Tutor Associate'
-    company: 'Department of Politics and International Studies, University of Warwick'
-    location: 'Coventry'
-    date_start: '2020-09-31'
-
+  experience:
+  - title: 'CEO'
+    company: 'GenCoin'
+    company_url: ''
+    location: 'California'
+    date_start: '2017-01-01'
+    date_end: ''
+    description: >-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
 ---
