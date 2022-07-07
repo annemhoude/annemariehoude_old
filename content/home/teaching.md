@@ -11,7 +11,7 @@ design:
     text_color_light: false
     image_darken: 0
 
-  experience:
+experience:
     title: 'CEO'
     company: 'GenCoin'
     company_url: ''
