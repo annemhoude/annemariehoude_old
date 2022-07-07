@@ -35,7 +35,7 @@ experience:
     date_end: '2022-03-01'
     description: >-
         Guest Lecture
-        * Referendums, Emotions, and Brexit
+          * Referendums, Emotions, and Brexit
   
                
 ---
