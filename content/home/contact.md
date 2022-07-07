@@ -1,5 +1,5 @@
 ---
-widget: https://wowchemy.com/docs/contact
+widget: contact
 widget_id: contact
 headless: true
 weight: 10
