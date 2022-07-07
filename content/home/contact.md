@@ -21,7 +21,7 @@ contact_links:
     name: Find me on Twitter
     link: https://twitter.com/AnneMarieHoude
 design:
-  columns: "2"
+  columns: "1"
   background:
     text_color_light: false
     image_darken: 0
