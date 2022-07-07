@@ -9,20 +9,7 @@ design:
   background:
     text_color_light: false
     image_darken: 0
----
-```
----
-widget: contact
-widget_id: contact
-headless: true
-weight: 100
-title: Contact me
-active: true
-design:
-  columns: "2"
-  background:
-    text_color_light: false
-    image_darken: 0
+
 content:
   Email : anne-marie.houde@warwick.ac.uk
 
@@ -41,4 +28,3 @@ contact_links:
 
 
 ---
-```
