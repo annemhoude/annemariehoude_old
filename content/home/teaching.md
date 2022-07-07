@@ -18,8 +18,7 @@ experience:
     location: 'Coventry'
     date_start: '2020-09-31'
     date_end: ''
-    description: >-
-    Modules taught: 
+    description: >- Modules taught: 
                   * PO107 Introduction to Politics
                   * PO131 World Politics
                   * PO132 Contemporary Themes in Comparative Politics
