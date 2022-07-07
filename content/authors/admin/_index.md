@@ -1,6 +1,6 @@
 ---
 role: PhD Candidate in Politics and International Studies
-avatar_filename: q1lvbrfb_400x400.jpg
+avatar_filename: assets/media/q1lvbrfb_400x400.jpg
 bio: My research interests include European studies, emotion research in
   International Relations, political and social psychology, and citizens’
   perspectives and the everyday.
