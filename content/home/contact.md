@@ -12,7 +12,9 @@ content:
     postcode: CV4 7AL
     country: United Kingdom
     country_code: UK
+    
 headless: true
+
 contact_links:
   - icon: twitter
     icon_pack: fab
