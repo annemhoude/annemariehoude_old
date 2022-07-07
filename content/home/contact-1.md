@@ -11,3 +11,18 @@ design:
     text_color_light: false
     image_darken: 0
 ---
+
+email: anne-marie.houde@warwick.ac.uk
+  address:
+    street: Social Sciences Building
+    city: Coventry
+    region: Warwickshire
+    postcode: CV4 7AL
+    country: United Kingdom
+    country_code: UK
+  
+  contact_links:
+    - icon: twitter
+      icon_pack: fab
+      name: Twitter
+      link: 'https://twitter.com/AnneMarieHoude'
