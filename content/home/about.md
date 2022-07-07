@@ -8,5 +8,5 @@ author: admin
 widget_id: about
 design:
   background:
-    image: q1lvbrfb_400x400.jpg
+    image: ""
 ---
