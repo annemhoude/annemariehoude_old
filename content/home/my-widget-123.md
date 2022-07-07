@@ -17,3 +17,9 @@ Social Sciences Building, University of Warwick
 Coventry
 CV4 7AL
 United Kingdom
+
+contact_links:
+    - icon: twitter
+      icon_pack: fab
+      name: DM Me
+      link: 'https://twitter.com/AnneMarieHoude'
