@@ -24,7 +24,7 @@ experience:
         Modules taught:
         
         * PO107 Introduction to Politics
-        * PO131 World Politics
-        * PO132 Contemporary Themes in Comparative Politics
-
+          * PO131 World Politics
+          * PO132 Contemporary Themes in Comparative Politics
+               
 ---
