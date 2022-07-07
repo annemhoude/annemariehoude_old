@@ -12,12 +12,16 @@ design:
     image_darken: 0
 
 experience:
-  - title: 'CEO'
-    company: 'GenCoin'
+  - title: 'Senior Graduate Tutor Associate'
+    company: 'Department of Politics and International Studies, University of Warwick'
     company_url: ''
-    location: 'California'
-    date_start: '2017-01-01'
+    location: 'Coventry'
+    date_start: '2020-09-31'
     date_end: ''
     description: >-
+    Modules taught: 
+                  * PO107 Introduction to Politics
+                  * PO131 World Politics
+                  * PO132 Contemporary Themes in Comparative Politics
             
 ---
