@@ -14,10 +14,8 @@ design:
 experience:
   - title: 'Senior Graduate Tutor Associate'
     company: 'Department of Politics and International Studies, University of Warwick'
-    company_url: ''
     location: 'Coventry'
     date_start: '2020-09-31'
-    date_end: ''
     description: >- Modules taught: 
                   * PO107 Introduction to Politics
                   * PO131 World Politics
