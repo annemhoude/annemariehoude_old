@@ -16,7 +16,8 @@ experience:
     company: 'Department of Politics and International Studies, University of Warwick'
     location: 'Coventry'
     date_start: '2020-09-31'
-    description: >- Modules taught: 
+    description: >- 
+                  Modules taught: 
                   * PO107 Introduction to Politics
                   * PO131 World Politics
                   * PO132 Contemporary Themes in Comparative Politics
