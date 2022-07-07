@@ -16,10 +16,10 @@ content:
 headless: true
 
 contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: Find me on Twitter
-    link: https://twitter.com/AnneMarieHoude
+  icon: twitter
+  icon_pack: fab
+  name: Find me on Twitter
+  link: https://twitter.com/AnneMarieHoude
 design:
   columns: "1"
   background:
