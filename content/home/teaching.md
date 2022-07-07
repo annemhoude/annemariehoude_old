@@ -12,7 +12,7 @@ design:
     image_darken: 0
 
   experience:
-  - title: 'CEO'
+    title: 'CEO'
     company: 'GenCoin'
     company_url: ''
     location: 'California'
