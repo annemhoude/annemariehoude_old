@@ -18,6 +18,7 @@ experience:
   - title: 'Senior Graduate Tutor Associate'
     company: 'Department of Politics and International Studies, University of Warwick'
     company_url: ''
+    company_logo: warwick
     location: 'Coventry, UK'
     date_start: '2021-09-30'
     date_end: ''
