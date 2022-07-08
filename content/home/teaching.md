@@ -26,6 +26,15 @@ experience:
          * PO131 World Politics
          * PO132 Contemporary Themes in Comparative Politics
 
- 
-               
+  - title: 'Senior Graduate Tutor Associate'
+    company: 'Department of Politics and International Studies, University of Warwick'
+    company_url: ''
+    location: 'Coventry, UK'
+    date_start: '2020-09-30'
+    date_end: '2021-05-30'
+    description: >-
+        Modules taught:
+       
+         * PO107 Introduction to Politics
+      
 ---
