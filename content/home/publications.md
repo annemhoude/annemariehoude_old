@@ -7,7 +7,7 @@ subtitle: ""
 content:
   filters:
     folders:
-      - publication/example
+      - publication
     tag: ""
     category: ""
     publication_type: ""
