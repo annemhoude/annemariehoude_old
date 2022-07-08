@@ -23,7 +23,7 @@ abstract: For over a decade, scholars of European studies have been studying a
 draft: false
 featured: false
 image:
-  placement: 1
+  placement: 2
   filename: featured
   focal_point: smart
   preview_only: false
