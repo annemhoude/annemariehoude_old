@@ -20,7 +20,7 @@ content:
   order: desc
 headless: true
 design:
-  view: list
+  view: card
   columns: "2"
 ---
 
