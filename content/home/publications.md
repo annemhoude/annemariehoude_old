@@ -21,9 +21,6 @@ content:
 headless: true
 design:
   view: citation
-  columns: "1"
+  columns: "2"
 ---
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
