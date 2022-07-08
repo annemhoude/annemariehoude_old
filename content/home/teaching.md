@@ -18,12 +18,11 @@ experience:
     company: 'Department of Politics and International Studies, University of Warwick'
     company_url: ''
     location: 'Coventry, UK'
-    date_start: '2020-09-30'
+    date_start: '2021-09-30'
     date_end: ''
     description: >-
         Modules taught:
-        
-        * PO107 Introduction to Politics
+       
          * PO131 World Politics
          * PO132 Contemporary Themes in Comparative Politics
 
@@ -36,6 +35,16 @@ experience:
     description: >-
         Guest Lecture
           * Referendums, Emotions, and Brexit
-  
+          
+   - title: 'Senior Graduate Tutor Associate'
+    company: 'Department of Politics and International Studies, University of Warwick'
+    company_url: ''
+    location: 'Coventry, UK'
+    date_start: '2020-09-30'
+    date_end: '2021-05-30'
+    description: >-
+        Modules taught:
+        
+        * PO107 Introduction to Politics
                
 ---
