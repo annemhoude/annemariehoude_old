@@ -14,6 +14,7 @@ design:
 date_format: Jan 2006
 
 experience:
+
   - title: 'Senior Graduate Tutor Associate'
     company: 'Department of Politics and International Studies, University of Warwick'
     company_url: ''
@@ -26,7 +27,7 @@ experience:
          * PO131 World Politics
          * PO132 Contemporary Themes in Comparative Politics
 
-- title: 'Guest Lecturer'
+  - title: 'Guest Lecturer'
     company: 'Department of Politics and International Studies, University of Warwick'
     company_url: ''
     location: 'Coventry, UK'
