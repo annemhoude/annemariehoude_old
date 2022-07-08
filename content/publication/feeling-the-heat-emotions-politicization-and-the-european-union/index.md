@@ -23,9 +23,9 @@ abstract: For over a decade, scholars of European studies have been studying a
 draft: false
 featured: false
 image:
-  filename: feelingtheheat
+  filename: feelingtheheat.png
   focal_point: Smart
-  preview_only: true
+  preview_only: false
 summary: "This article extends existing explanatory models by offering a
   systematic theorization of the role emotions in EU politicization to establish
   that emotions are integral to every step of the process.
