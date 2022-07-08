@@ -23,7 +23,7 @@ abstract: For over a decade, scholars of European studies have been studying a
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: feelingtheheat
   focal_point: Smart
   preview_only: false
 summary: "This article extends existing explanatory models by offering a
