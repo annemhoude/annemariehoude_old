@@ -21,7 +21,7 @@ abstract: For over a decade, scholars of European studies have been studying a
   integrating emotions into explanatory models is illustrated through the case
   of the Brexit campaign.
 draft: false
-featured: false
+featured: true
 image:
   placement: 2
   filename: featured
