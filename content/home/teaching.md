@@ -26,6 +26,17 @@ experience:
          * PO131 World Politics
          * PO132 Contemporary Themes in Comparative Politics
 
+- title: 'Guest Lecturer'
+    company: 'Department of Politics and International Studies, University of Warwick'
+    company_url: ''
+    location: 'Coventry, UK'
+    date_start: '2022-03-08'
+    date_end: '2022-03-08'
+    description: >-
+        Guest lecture given:
+       
+         * Referendums, Emotions & Brexit
+
   - title: 'Senior Graduate Tutor Associate'
     company: 'Department of Politics and International Studies, University of Warwick'
     company_url: ''
