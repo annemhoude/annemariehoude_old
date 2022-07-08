@@ -31,6 +31,7 @@ experience:
   - title: 'Guest Lecturer'
     company: 'Department of Politics and International Studies, University of Warwick'
     company_url: ''
+    company_logo: warwick
     location: 'Coventry, UK'
     date_start: '2022-03-08'
     date_end: '2022-03-08'
@@ -42,6 +43,7 @@ experience:
   - title: 'Senior Graduate Tutor Associate'
     company: 'Department of Politics and International Studies, University of Warwick'
     company_url: ''
+    company_logo: warwick
     location: 'Coventry, UK'
     date_start: '2020-09-30'
     date_end: '2021-05-30'
