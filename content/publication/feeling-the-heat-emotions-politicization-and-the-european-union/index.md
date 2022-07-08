@@ -25,7 +25,7 @@ featured: false
 image:
   filename: feelingtheheat
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 summary: "This article extends existing explanatory models by offering a
   systematic theorization of the role emotions in EU politicization to establish
   that emotions are integral to every step of the process.
