@@ -21,7 +21,7 @@ abstract: For over a decade, scholars of European studies have been studying a
   emotional investments and sensitivities. The analytical added value of
   integrating emotions into explanatory models is illustrated through the case
   of the Brexit campaign.
-featured: true
+featured: false
 tags: []
 projects: []
 slides: ""
@@ -32,15 +32,5 @@ image:
 summary: This article extends existing explanatory models by offering a
   systematic theorization of the role emotions in EU politicization to establish
   that emotions are integral to every step of the process.
-date: 2022-10-01T00:00:00Z
+date: 2022-10-01T00:00:00.000Z
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
