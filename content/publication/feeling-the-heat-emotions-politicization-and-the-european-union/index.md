@@ -2,7 +2,8 @@
 title: "Feeling the Heat: Emotions, Politicization, and the European Union"
 publication_types:
   - "2"
-authors: Nicolai Gellwitzki, Anne-Marie Houde
+authors:
+  - Nicolai Gellwitzki and Anne-Marie Houde
 doi: 10.1111/jcms.13328
 publication: Journal of Common Market Studies
 publication_short: JCMS
