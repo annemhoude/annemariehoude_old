@@ -24,7 +24,7 @@ draft: false
 featured: false
 image:
   filename: featured
-  focal_point: center
+  focal_point: small
   preview_only: false
 summary: "This article extends existing explanatory models by offering a
   systematic theorization of the role emotions in EU politicization to establish
