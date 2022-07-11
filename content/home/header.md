@@ -9,4 +9,6 @@ design:
   background:
     text_color_light: false
     image_darken: 0
+ header:
+  image: 'header'
 ---
