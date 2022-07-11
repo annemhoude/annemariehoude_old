@@ -20,7 +20,7 @@ content:
   order: desc
 headless: true
 design:
-  view: showcase
+  view: card
   columns: "2"
 ---
 
