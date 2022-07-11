@@ -28,11 +28,9 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-summary: "While EU official narratives are documented by studies on the European
-  institutions or the visions of leaders and parties, their empirical analysis
-  at the citizens' level is still fragmented. Using focus group data in four
-  countries (France, Portugal, Italy and Belgium) and three social groups (21
-  group interviews), we provide a comparative qualitative answer to how citizens
-  envision European integration. "
+summary: "Using focus group data in four countries (France, Portugal, Italy and
+  Belgium) and three social groups (21 group interviews), we provide a
+  comparative qualitative answer to how citizens envision European integration.
+  "
 date: 2022-06-26T06:13:28.667Z
 ---
