@@ -11,3 +11,4 @@ design:
     image_darken: 0
 ---
 ![](featured.png)
+size: cover
