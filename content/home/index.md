@@ -1,7 +1,7 @@
 ---
 widget: homepage
 widget_id: index
-headless: true
+headless: false
 weight: 10
 active: true
 design:
