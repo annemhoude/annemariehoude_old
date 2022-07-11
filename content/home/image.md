@@ -9,8 +9,9 @@ design:
   background:
     text_color_light: false
     image_darken: 0
-    image: ""
+    image: header.png
 header:
-  image: "header.png"
-  caption: "Image credit: [**Geo**]([https://www.birmingham2022.com/venues/myton-fields])"
+  image: header.png
+  caption: "Image credit:
+    [**Geo**]([https://www.birmingham2022.com/venues/myton-fields])"
 ---
