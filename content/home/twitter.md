@@ -11,5 +11,5 @@ design:
     image_darken: 0
     
 ---    
-<a class="twitter-timeline" href="https://twitter.com/AnneMarieHoude?ref_src=twsrc%5Etfw">Tweets by AnneMarieHoude</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<a class="twitter-timeline" data-width="1000" data-height="700" href="https://twitter.com/AnneMarieHoude?ref_src=twsrc%5Etfw">Tweets by AnneMarieHoude</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 ---
