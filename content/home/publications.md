@@ -20,7 +20,7 @@ content:
   order: desc
 headless: true
 design:
-  view: citation
+  view: list
   columns: "2"
 ---
 
