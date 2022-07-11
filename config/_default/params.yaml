@@ -38,6 +38,8 @@ header:
     show_day_night: true
     show_search: true
     highlight_active_link: true
+    image: "header.png"
+    caption: "Image credit: [**Geo**](https://www.birmingham2022.com/venues/myton-fields)"
 
 # Site footer
 
