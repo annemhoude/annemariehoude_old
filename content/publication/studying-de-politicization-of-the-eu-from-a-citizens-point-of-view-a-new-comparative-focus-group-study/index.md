@@ -21,5 +21,7 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+summary: This article presents a new qualitative dataset from 21 focus groups
+  conducted across social groups and four countries.
 date: 2022-07-11T06:24:25.277Z
 ---
