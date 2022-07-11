@@ -9,6 +9,7 @@ design:
   background:
     text_color_light: false
     image_darken: 0
+    image: featured.png
 image:
   placement: 3
   caption: Photo by
@@ -17,4 +18,3 @@ image:
   preview_only: false
   alt_text: An optional description of the image for screen readers.
 ---
-![](assets/media/featured.png)
