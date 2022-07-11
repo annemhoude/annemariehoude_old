@@ -2,7 +2,7 @@
 widget: blank
 widget_id: image
 headless: false
-header: assets/media/header.png
+cover: assets/media/header.png
 weight: 10
 active: true
 design:
