@@ -10,7 +10,8 @@ authors:
   - Anne-Marie Houde
   - Damien Pennetreau
 doi: https://doi.org/10.1111/jcms.13364
-publication: Journal of Common Market Studies
+url_source: https://doi.org/10.1111/jcms.13364
+publication: _Journal of Common Market Studies_
 abstract: Changes in public opinion and civil society over the last decade have
   shown that citizens, particularly in old EU Member States, have developed more
   complex attitudes towards European integration. While the European project was
