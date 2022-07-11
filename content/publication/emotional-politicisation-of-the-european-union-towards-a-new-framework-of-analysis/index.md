@@ -3,6 +3,9 @@ title: "Emotional Politicisation of the European Union: Towards a New Framework
   of Analysis"
 publication_types:
   - "3"
+authors:
+  - Nicolai Gellwitzki
+  - Anne-Marie Houde
 publication: RESTEP Working papers
 abstract: >-
   Politicisation of European issues in times of crises but this paper challenges
