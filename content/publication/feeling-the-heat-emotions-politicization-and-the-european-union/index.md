@@ -6,7 +6,8 @@ authors:
   - Nicolai Gellwitzki
   - Anne-Marie Houde
 doi: 10.1111/jcms.13328
-publication: Journal of Common Market Studies
+url_source: https://onlinelibrary.wiley.com/doi/full/10.1111/jcms.13328
+publication: _Journal of Common Market Studies_
 abstract: For over a decade, scholars of European studies have been studying a
   phenomenon referred to as the politicization of the European Union, usually
   defined as the intensification of a political debate, the polarization of
