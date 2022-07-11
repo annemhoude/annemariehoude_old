@@ -15,3 +15,4 @@ header:
   caption: "Image credit:
     [**Geo**]([https://www.birmingham2022.com/venues/myton-fields])"
 ---
+![](featured.png)
