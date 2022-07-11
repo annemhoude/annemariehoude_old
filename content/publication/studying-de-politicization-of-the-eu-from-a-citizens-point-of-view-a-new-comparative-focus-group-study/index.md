@@ -14,7 +14,7 @@ authors:
   - Tiago Silva
   - Virginie Van Ingelgom
 doi: 10.3917/poeu.pr1.0004
-publication: Politique Européenne
+publication: _Politique Européenne_
 abstract: Whilst the politicization of the EU has been increasingly studied over
   recent years, the analysis has been focusing mainly on political parties and
   media. Thus, although not completely overlooked, studies looking at EU
