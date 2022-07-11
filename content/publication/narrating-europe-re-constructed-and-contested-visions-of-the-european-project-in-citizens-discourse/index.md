@@ -34,5 +34,5 @@ summary: "While EU official narratives are documented by studies on the European
   countries (France, Portugal, Italy and Belgium) and three social groups (21
   group interviews), we provide a comparative qualitative answer to how citizens
   envision European integration. "
-date: 2022-07-11T06:13:28.667Z
+date: 2022-06-26T06:13:28.667Z
 ---
