@@ -3,6 +3,12 @@ title: "Narrating Europe: (Re-)constructed and Contested Visions of the European
   Project in Citizens' Discourse"
 publication_types:
   - "2"
+authors:
+  - Laurie Beaudonnet
+  - Céline Belot
+  - Hélène Caune
+  - Anne-Marie Houde
+  - Damien Pennetreau
 doi: https://doi.org/10.1111/jcms.13364
 publication: Journal of Common Market Studies
 abstract: Changes in public opinion and civil society over the last decade have
