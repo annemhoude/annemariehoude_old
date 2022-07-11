@@ -15,7 +15,7 @@ design:
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 # Set `preview_only` to `true` to just use the image for thumbnails.
 image:
-  image: featured.png
+  image: https://resources.cwg-qbr.pulselive.com/photo-resources/2022/05/10/76cae659-b6ac-41bc-abc7-b672459da4f6/Warwick.jpg?width=910
   placement: 3
   caption: "Photo by [Birmingham city]((https://resources.cwg-qbr.pulselive.com/photo-resources/2022/05/10/76cae659-b6ac-41bc-abc7-b672459da4f6/Warwick.jpg?width=910))"
   focal_point: "Center"
