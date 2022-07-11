@@ -20,7 +20,7 @@ content:
   order: desc
 headless: true
 design:
-  view: card
+  view: citation
   columns: "2"
 ---
 
