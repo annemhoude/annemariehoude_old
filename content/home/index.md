@@ -4,4 +4,8 @@ type: widget_page
 
 # Homepage is headless, other widget pages are not.
 headless: true
+
+header:
+  image: "header.png"
+  caption: "Image credit: [**Geo**]([https://www.birmingham2022.com/venues/myton-fields])"
 ---
