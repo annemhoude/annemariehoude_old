@@ -36,6 +36,7 @@ abstract: >-
   progresses and is perceived to be salient and of European dimensions.
 draft: false
 featured: false
+url_pdf: http://www.restep.ca/wp-content/uploads/2021/03/Gellwitzki-Houde-Working-Paper-FINALE.pdf
 image:
   filename: featured
   focal_point: Smart
