@@ -20,7 +20,7 @@ content:
   order: desc
 headless: true
 design:
-  view: list
+  view: showcase
   columns: "2"
 ---
 
