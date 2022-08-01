@@ -1,5 +1,5 @@
 ---
-widget: blank
+widget: pages
 widget_id: research
 headless: true
 weight: 30
